@@ -48,6 +48,4 @@ Python 3.12 is needed (scikit-learn 1.6.1 has no wheel for 3.14):
 https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp?select=train.txt
 
 ## Author
-**Tushar Bhardwaj** 
-· [LinkedIn](https://www.linkedin.com/in/tushar-bhardwaj-b89973422) 
-· [GitHub](https://github.com/highdreamers102)=
+**Tushar Bhardwaj** | [LinkedIn](https://www.linkedin.com/in/tushar-bhardwaj-b89973422) | [GitHub](https://github.com/highdreamers102)
